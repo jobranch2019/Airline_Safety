@@ -1,2 +1,2 @@
 # DSC640_Airline_Safety
-Term project for DSC640 Data Presentation and Visualization.  Includes dashboard, executive summary, social media posts, and infographic. Four separate 'tasks' fulfill project requirements.
+This is a data presentation and visualization project with the goal of convincing business travelers that it is safe to fly on our airline even during COVID.  Includes dashboard, social media post, infographic, and voice-over PowerPoint presentation.
