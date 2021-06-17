@@ -1,0 +1,38 @@
+date,type,registration,operator,fat.,location,cat,Flyover Status
+4/12/2001,Embraer EMB-135LR (ERJ-135LR),N735TS,American Eagle,0,Cleveland-Ho...,A2,Flyover State
+5/13/2001,Boeing 727-222,N7274U,United Airlines,0,Omaha-Eppley...,O1,Flyover State
+5/23/2001,Fokker 100,N1419D,American Airlines,0,Dallas/Fort ...,A1,Flyover State
+3/2/2002,Boeing 757-222,N589UA,United Airlines,0,Seattle/Taco...,A2,West Coast
+3/6/2002,Fokker 100,N1425A,American Airlines,0,Dallas/Fort ...,A2,Flyover State
+4/17/2002,Let L-410UVP-E9,5Y-UAS,United Airlines,0,Mara Ngerend...,A1,International
+6/4/2002,DC-9-82 (MD-82),N823NK,Spirit Airlines,0,"near Wichita, KS",A2,Flyover State
+2/1/2003,Boeing 737-4Q8,N764AS,Alaska Airlines,0,Vancouver In...,A2,West Coast
+2/2/2006,Boeing 747-422,N127UA,United Airlines,0,Melbourne-Tu...,A2,International
+6/2/2006,Boeing 767-223ER,N330AA,American Airlines,0,Los Angeles ...,O1,West Coast
+6/20/2006,DC-9-83 (MD-83),N961TW,American Airlines,0,Chicago-O'Ha...,A2,Flyover State
+2/26/2007,Boeing 777-222ER,N786UA,United Airlines,0,London-Heath...,A2,International
+3/29/2007,DC-9-83 (MD-83),N877GA,Allegiant Air,0,"Sanford, FL",A2,East Coast
+1/10/2010,Airbus A319-131,N816UA,United Airlines,0,Newark-Liber...,A2,East Coast
+6/19/2010,Boeing 737-832 (WL),N3730B,Delta Air Lines,0,New York-Joh...,A2,East Coast
+1/3/2011,Boeing 737-823 (WL),N831NN,American Airlines,0,Los Angeles ...,A2,West Coast
+4/1/2011,Boeing 737-3H4 (WL),N632SW,Southwest Airlines,0,Yuma Interna...,A2,Flyover State
+3/13/2012,Boeing 737-732 (WL),N309DE,Delta Air Lines,0,Atlanta Hart...,O2,Flyover State
+5/30/2012,Embraer EMB-140 (ERJ-135KL),N834AE,American Eagle,0,Chicago-O'Ha...,A2,Flyover State
+7/15/2012,DC-9-83 (MD-83),N110HM,American Airlines,0,Dallas/Fort ...,O1,Flyover State
+3/7/2013,Boeing 757-232,N698DL,Delta Air Lines,0,Atlanta-Will...,A2,Flyover State
+5/1/2013,DC-9-82 (MD-82),N7518A,American Airlines,0,Dallas/Fort ...,O1,Flyover State
+6/13/2013,MD-88,N995DL,Delta Air Lines,0,Nashville In...,A2,Flyover State
+1/3/2014,Boeing 737-8H4 (WL),N8327A,Southwest Airlines,0,Las Vegas-Mc...,A2,Flyover State
+1/31/2014,MD-88,N921DL,Delta Air Lines,0,Atlanta-Will...,A2,Flyover State
+3/5/2015,MD-88,N909DL,Delta Air Lines,0,New York-La ...,A1,East Coast
+6/17/2015,Boeing 747-451,N664US,Delta Air Lines,0,over China,A1,International
+2/17/2016,Boeing 737-7H4 (WL),N784SW,Southwest Airlines,0,Detroit-Metr...,A2,Flyover State
+2/17/2016,Boeing 737-823 (WL),N925NN,American Airlines,0,Detroit-Metr...,A2,Flyover State
+3/25/2016,Embraer ERJ-190AR (ERJ-190-100 IGW),N273JB,JetBlue Airways,0,Nassau-Lynde...,A2,International
+5/10/2016,Airbus A321-211,N189UW,American Airlines,0,Phoenix-Sky ...,A2,Flyover State
+6/23/2017,Airbus A321-211 (WL),N315DN,Delta Air Lines,0,Atlanta-Will...,A2,Flyover State
+6/30/2017,Airbus A321-231 (WL),N991AU,American Airlines,0,Chicago-O'Ha...,A2,Flyover State
+4/17/2018,Boeing 737-7H4 (WL),N772SW,Southwest Airlines,1,near Philadelphia...,A1,East Coast
+4/18/2018,Airbus A330-302,N806NW,Delta Air Lines,0,Atlanta-Will...,A2,Flyover State
+5/1/2018,Boeing 767-332ER (WL),N172DN,Delta Air Lines,0,New York-Joh...,A2,East Coast
+5/7/2018,Boeing 737-8H4 (WL),N8655D,Southwest Airlines,0,Baltimore/Wa...,A2,East Coast
